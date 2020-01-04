@@ -1,0 +1,5 @@
+autres outils de génération de documentation :
+1. Docutils : avec son célèbre format ReStructuredText, plutôt pour Python
+2. POD (Perl)
+3. RDoc (Ruby)
+4. SandCastle, outil de génération de documentation pour les langages .Net, édité par Microsoft
